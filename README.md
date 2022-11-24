@@ -1,2 +1,4 @@
 # moved
-moved to @firtoz
+moved to [@firtoz](https://github.com/firtoz).
+
+See you there :)
